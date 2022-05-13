@@ -1,0 +1,32 @@
+_repo: With-The-Movie-Makers_68037
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stearns, Myron M. (Myron Morris)
+    aliases:
+    - Stearns, Myron Morris
+    - Amid, John
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '54509'
+    url: http://www.gutenberg.org/2009/agents/54509
+description: ''
+gutenberg_issued: '2022-05-09'
+identifiers:
+  gutenberg: '68037'
+language: en
+pgterms:marc904: https://archive.org/details/withmoviemakers00stea/page/n9/mode/2up
+pgterms:marc905: 20200721212549amid
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Charlene Taylor, Robert Tonsing and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :Lothrop, Lee & Shepard Co.,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: With The Movie Makers
+url: http://www.gutenberg.org/ebooks/68037
